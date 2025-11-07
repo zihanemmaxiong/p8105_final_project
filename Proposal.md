@@ -91,8 +91,10 @@ counts and average inspection scores (plotly) -Explore seasonal patterns
 (e.g., summer peaks) and potential time-lag relationships between rat
 activity and sanitation outcomes.
 
-3.  **Statistical Modelling** (potential?) -Examine correlations between
-    average violation scores and rat-sighting rates.
+3.  **Statistical Modelling** (potential?)
+   
+-Conduct simple linear regression to analyze linearity between restaurant violation and rat-sighting rates.
+-Report coefficients, t-statistics p-values, and R squared to assess whether the linear relationship is statistically significant.
 
 ### Coding Challenges
 
