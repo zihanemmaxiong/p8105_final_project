@@ -1,10 +1,8 @@
 ---
 title: "Proposal"
-output: 
-  html_document:
-    theme: flatly
-    toc: true
-    toc_float: true
+author: "Zihan Xiong"
+date: "2025-11-06"
+output: github_document
 ---
 
 ### Group Members
