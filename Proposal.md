@@ -5,7 +5,8 @@ Zihan Xiong
 
 ### Group Members
 
-Zihan Xiong (zx2527), Wanting Dong, Hsuanyi Lee (hl3858), Yue Hu
+Zihan Xiong (zx2527), Wanting Dong (wd2311), Hsuanyi Lee (hl3858), Yue
+Hu (yh3823)
 
 ### Tentative Project Title
 

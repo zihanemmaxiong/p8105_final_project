@@ -6,7 +6,7 @@ output: github_document
 ---
 
 ### Group Members
-Zihan Xiong (zx2527), Wanting Dong, Hsuanyi Lee (hl3858), Yue Hu
+Zihan Xiong (zx2527), Wanting Dong (wd2311), Hsuanyi Lee (hl3858), Yue Hu (yh3823)
 
 ### Tentative Project Title
 What's NYC Rats' Favorite Restaurant? Exploring the association between NYC Rat Sighting Report and Restaurant Inspections Results.
